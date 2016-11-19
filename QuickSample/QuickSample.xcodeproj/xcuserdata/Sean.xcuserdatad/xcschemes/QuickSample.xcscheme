@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1444B76B1DE0EE3E000300B7"
+               BlueprintIdentifier = "14C215A91DE103C600BBBDBF"
                BuildableName = "QuickSample.app"
                BlueprintName = "QuickSample"
                ReferencedContainer = "container:QuickSample.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1444B77F1DE0EE3E000300B7"
+               BlueprintIdentifier = "14C215BD1DE103C600BBBDBF"
                BuildableName = "QuickSampleTests.xctest"
                BlueprintName = "QuickSampleTests"
                ReferencedContainer = "container:QuickSample.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1444B76B1DE0EE3E000300B7"
+            BlueprintIdentifier = "14C215A91DE103C600BBBDBF"
             BuildableName = "QuickSample.app"
             BlueprintName = "QuickSample"
             ReferencedContainer = "container:QuickSample.xcodeproj">
@@ -65,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1444B76B1DE0EE3E000300B7"
+            BlueprintIdentifier = "14C215A91DE103C600BBBDBF"
             BuildableName = "QuickSample.app"
             BlueprintName = "QuickSample"
             ReferencedContainer = "container:QuickSample.xcodeproj">
@@ -84,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1444B76B1DE0EE3E000300B7"
+            BlueprintIdentifier = "14C215A91DE103C600BBBDBF"
             BuildableName = "QuickSample.app"
             BlueprintName = "QuickSample"
             ReferencedContainer = "container:QuickSample.xcodeproj">

@@ -3,7 +3,7 @@
 //  QuickSample
 //
 //  Created by Sean Wernimont on 11/19/16.
-//  Copyright © 2016 Just One Guy. All rights reserved.
+//  Copyright © 2016 The Blind Squirrel. All rights reserved.
 //
 
 import UIKit
