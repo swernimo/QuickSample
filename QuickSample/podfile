@@ -1,0 +1,10 @@
+
+def testing_pods
+	pod 'Quick'
+	pod 'Nimble'
+end
+
+target 'QuickSampleTests' do
+	use_frameworks!
+	testing_pods
+end
