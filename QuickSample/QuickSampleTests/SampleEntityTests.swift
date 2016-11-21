@@ -19,7 +19,7 @@ class SampleEntityTests: QuickSpec {
             it("speak should say Hello and append the supplied word"){
                 let entity = SampleEntity()
                 let expected = "Hello Jane"
-                let actual = entity.speak(word: "Jane")
+                let actual = entity.speak("Jane")
                 expect(actual).to(equal(expected))
             }
         }
