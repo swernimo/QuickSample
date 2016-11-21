@@ -22,6 +22,14 @@ class SampleEntityTests: QuickSpec {
                 let actual = entity.speak("Jane")
                 expect(actual).to(equal(expected))
             }
+            
+            it("square the supplied number"){
+                let entity = SampleEntity()
+                let number = 2
+                let expected = 4
+                let actual = entity.squareNumber(number: number)
+                expect(actual).to(equal(expected))
+            }
         }
     }
 }

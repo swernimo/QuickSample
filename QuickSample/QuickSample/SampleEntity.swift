@@ -10,4 +10,8 @@ class SampleEntity{
     func speak(_ word: String) -> String{
         return "Hello \(word)"
     }
+    
+    func squareNumber(number: Int) -> Int{
+        return number * number
+    }
 }
